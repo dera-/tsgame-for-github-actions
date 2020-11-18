@@ -1,0 +1,3 @@
+[submodule ".github/workflows/only-workflow"]
+	path = .github/workflows/only-workflow
+	url = git@github.com:dera-/only-workflow.git
